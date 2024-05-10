@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayaverma 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning webprogramming
+- 🌱 I’m currently learning web designing and development.
   
 
 <!---
